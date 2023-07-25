@@ -1,1 +1,1 @@
-console.log("Hi my name is amol")
+console.log("Hi my name is amul")
