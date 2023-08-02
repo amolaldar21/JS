@@ -1,6 +1,6 @@
 function leapYear(year){
-var yearch= +year
-if(year<=0 || isNaN(yearch)){
+var year= +year
+if(year<=0 || isNaN(year)){
 
     console.log(`plz enter valid year`);
 }
